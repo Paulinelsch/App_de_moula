@@ -2,7 +2,7 @@
     "name": "Gertamoula",
     "short_name": "Gertamoula",
     "lang": "fr",
-    "start_url": "/",
+    "start_url": "/App_de_moula",
     "display": "standalone",
     "orientation": "portrait",
     "background_color": "#f2f2f7",
